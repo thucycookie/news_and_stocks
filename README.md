@@ -19,4 +19,11 @@ sign up for aws free account, newsapi and webhose io
 Since I only had the free development plan, the day range to choose news is only one month so when you are using the news api, you can just type None.
 The API Keys are already in webhose.py and get_news_in_json.java
 
+# usage 
+javac *.java to compile all the java files
+
+python main.py to run the main program 
+
 If you have any question, email me at tug98850@temple.edu
+
+
