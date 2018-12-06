@@ -1,6 +1,7 @@
 # news_and_stocks
 
 Utilization of AWS NLS and alpha vantage to find trends between news sentiment and a stock price
+
 Pre-requiste:
 
 pip install alpha_vantage –user
